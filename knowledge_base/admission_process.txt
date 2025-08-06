@@ -1,0 +1,5 @@
+Admission Process:
+- Centralised Admission Process (CAP) conducted by Directorate of Technical Education, Maharashtra
+- For UG: Apply via MHT‑CET or JEE Main counselling rounds
+- For PG: Apply via GATE + CAP rounds
+- Upload required documents: Class X & XII marksheets, entrance scorecard, domicile certificate, category certificate (if applicable), migration and character certificates, photos :contentReference[oaicite:3]{index=3}

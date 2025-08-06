@@ -1,0 +1,8 @@
+Placements & Scholarships:
+- Placement Cell: ~150–180 companies visit annually (e.g., TCS, IBM, Infosys, Capgemini, Wipro, Godrej, Oracle) :contentReference[oaicite:9]{index=9}
+- 2022 Placement Statistics:
+    • Total students placed (CSE): ~178 out of ~446 offers (85% placement)
+    • Highest offer: ₹42 LPA (Adobe); Average ~₹4.5 LPA :contentReference[oaicite:10]{index=10}
+- Scholarships:
+    • State and central government scholarships for SC/ST, OBC, Minority, EBC via MahaDBT portal
+    • Documents: caste certificate, income proof, domicile, admission proof, admission fee receipt, etc. :contentReference[oaicite:11]{index=11}

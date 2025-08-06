@@ -1,0 +1,4 @@
+Eligibility for M.Tech (ME) at MESCOE:
+- Completed BE/B.Tech or B.Sc (CSE/IT) from a recognized university
+- Minimum aggregate: ~50% marks (Reserved category: ~45%)
+- Qualified in GATE or valid MHT‑CET score followed by Maharashtra CAP rounds :contentReference[oaicite:2]{index=2}
